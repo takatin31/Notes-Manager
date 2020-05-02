@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes Manager</string>
+    <string name="rechercher_une_note">Rechercher une note</string>
+
+    <string-array name="color_array">
+        <item>white</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>red</item>
+    </string-array>-array>
+</resources>
